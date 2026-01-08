@@ -119,3 +119,40 @@ Interns must implement tests for:
 
 ##  Project Structure (Example)
 
+visa-requirement/
+├── .gitignore
+├── README.md
+├── rules.json
+├── Country.java
+├── TravelPurpose.java
+├── VisaType.java
+├── DocumentType.java
+├── VisaRule.java
+├── RuleLoader.java
+├── RuleRepository.java
+├── VisaRuleEvaluator.java
+└── VisaDecision.java
+
+---
+
+##  Key Learning Outcomes
+
+- Designing config-driven systems
+- Clean separation of concerns
+- Real-world rule evaluation logic
+- Defensive programming
+- Writing extensible Java code
+
+---
+
+##  Notes
+
+- Compiled `.class` files are intentionally excluded from the repository.
+- The system is designed to be extendable for additional countries and rules without changing Java logic.
+
+---
+
+##  Author
+
+**Sanskar Tyagi**  
+Core Java Brush-Up Assignment
