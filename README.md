@@ -120,7 +120,7 @@ Interns must implement tests for:
 ## 📂 Project Structure 
 
 ```
-visa-requirement/
+visa-rule-engine/
 ├── .gitignore
 ├── README.md
 ├── rules.json
