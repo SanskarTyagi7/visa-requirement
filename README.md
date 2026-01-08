@@ -119,6 +119,7 @@ Interns must implement tests for:
 
 ## 📂 Project Structure (Example)
 
+```
 visa-requirement/
 ├── .gitignore
 ├── README.md
@@ -132,6 +133,7 @@ visa-requirement/
 ├── RuleRepository.java
 ├── VisaRuleEvaluator.java
 └── VisaDecision.java
+```
 
 ---
 
