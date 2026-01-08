@@ -117,7 +117,7 @@ Interns must implement tests for:
 
 ---
 
-##  Project Structure (Example)
+## 📂 Project Structure (Example)
 
 visa-requirement/
 ├── .gitignore
