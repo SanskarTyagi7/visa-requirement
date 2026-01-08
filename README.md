@@ -117,7 +117,7 @@ Interns must implement tests for:
 
 ---
 
-## 📂 Project Structure 
+## Project Structure 
 
 ```
 visa-rule-engine/
